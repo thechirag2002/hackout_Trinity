@@ -1,0 +1,13 @@
+.pricing {
+    background-image: url(https://unsplash.com/photos/mountains-cover-by-fogs-wVjd0eWNqI8);
+}
+.box1{
+    background-color:white;
+    text-align:center;
+  }
+.box1 p{
+    margin:"0rem auto"
+  }
+  .box2{
+    background-color:white
+  }

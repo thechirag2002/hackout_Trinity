@@ -1,0 +1,22 @@
+.form{
+    background-image : url('https://unsplash.com/photos/mountains-cover-by-fogs-wVjd0eWNqI8');
+    background-color : lightgoldenrodyellow
+}
+.form-group {
+  text-align: right;
+}
+.button {
+  width: 110px;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px; /* Increase padding for larger button */
+  font-size: 16px; /* Increase font size for text */
+}
+.form-space {
+  margin-top: 7px; /* Adjust the margin as needed */
+}
+.form-space1 {
+  margin-top: 16px; /* Adjust the margin as needed */
+}
